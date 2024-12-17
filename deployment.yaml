@@ -60,7 +60,7 @@ spec:
 
       - name: transportationorderserver
 
-        image: ghcr.io/carla-vila/tos
+        image: ghcr.io/carla-vi/tos
 
         ports:
 
